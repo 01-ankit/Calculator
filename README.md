@@ -4,14 +4,12 @@
  
  
  // Frontend of the Calculaor below--
- 
-[Frontend](frontend.jpg)
+------------------------------------------------------------------------------------------------------------------------------
+
+<img src="frontend.jpg">
 
 
 
-
-
-
-
+Here is Output :- https://calculator.mutualstudy77.repl.co/
 
 [Output is Here](https://calculator.mutualstudy77.repl.co/)
