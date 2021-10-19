@@ -5,7 +5,7 @@
  
  // Frontend of the Calculaor below--
  
-frontend.jpg
+[Frontend](frontend.jpg)
 
 
 
@@ -14,4 +14,4 @@ frontend.jpg
 
 
 
-[Github](https://calculator.mutualstudy77.repl.co/)
+[Output is Here](https://calculator.mutualstudy77.repl.co/)
