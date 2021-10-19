@@ -12,4 +12,4 @@
 
 Here is Output :- https://calculator.mutualstudy77.repl.co/
 
-[Output is Here](https://calculator.mutualstudy77.repl.co/)
+[click here] for the output(https://calculator.mutualstudy77.repl.co/)
